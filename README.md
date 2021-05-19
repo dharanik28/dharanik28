@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dharani Krishnan
-- 👀 I’m interested in Cybersecurity, QA
+- 👀 I’m interested in Cybersecurity, QA, SAP MM/P2P Opportunities
 - 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to collaborate on New technologies  
 - 📫 How to reach me email:dharanikumar.krishnan@yahoo.com
 
 <!---
